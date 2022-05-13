@@ -1,2 +1,2 @@
 # 咕咕咕
-### Thank you and have fun
+[LINK](http://1.919810.xyz/executif)
