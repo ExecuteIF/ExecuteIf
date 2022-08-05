@@ -18,6 +18,12 @@ body {
 	height: 1000px;
 	background-color: #FFFFFF;
 }
+.vdo {
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+    height:1000px;
+}
 /* Navigation */
 header {
 	width: 100%;
