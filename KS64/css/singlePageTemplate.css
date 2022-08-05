@@ -153,20 +153,20 @@ ul li:hover a {
 	background-repeat: no-repeat;
 }
 .parallax {
-	color: #39c5bb;
+	color: #555555;
 	text-align: right;
 	padding-right: 100px;
-	padding-top: 50px;
+	padding-top: 30px;
 	letter-spacing: 2px;
 	margin-top: 0px;
 }
 .parallax2 {
-	color: #eeeeee;
+	color: #444444;
 	text-align: right;
 	padding-right: 100px;
 }
 .parallax_description {
-	color: #FFFFFF;
+	color: #333333;
 	text-align: right;
 	padding-right: 100px;
 	width: 30%;
@@ -249,8 +249,8 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	padding-top: 230px;
-	padding-bottom: 230PX;
+	padding-top: 100px;
+	padding-bottom: 100PX;
 	margin-bottom: 0px;
 	background-image: url(../images/sun.png);
     background-size: cover;
